@@ -1,0 +1,36 @@
+/* Inicio esta sytle padrao */
+
+/* Conteudo inicial */
+
+#conteudo-incial-escrito h2{
+    font-size: 60px;
+    font-weight: 500;
+    color:  #ffbc00;
+    padding-left: 100px;
+  }
+  
+  #conteudo-incial-escrito p{
+    font-size: 40px;
+    font-weight: 500;
+    color: black;
+  }
+  
+  #conteudo-incial-escrito h4{
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-left: 70px;
+  }
+  
+  #conteudo-incial{
+      background-image: url("flor/fundo.png");
+      width: 100%;
+      height: 70vh;
+      border: 0;
+      background-size: cover;
+      background-position: top 7 0 right 0;
+      padding: 0 80px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-around;
+  }
