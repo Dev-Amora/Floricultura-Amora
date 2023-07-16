@@ -1,0 +1,91 @@
+/* Inicio esta sytle padrao */
+/* Corpo home do cadastro*/
+
+#conteudo-incial{
+    padding: 30px 0 30px 0;
+}
+
+#conteudo-incial .text-incial{
+    font-size: 36px;
+    padding: 5px;
+    color: #c800c8;
+    background-color: #eadbea;
+    margin: 5px 100px 5px 100px;
+    text-align: center;
+  }
+  
+  #conteudo-incial .text-incial span{
+    font-size: 36px;
+    color:#545454;
+  }
+  
+  /* corpo */
+
+  #contato {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 150px 30px 150px;
+    border: 1px solid #c800c8;
+    border-radius: 20px;
+  }
+  
+  
+  #contato .detalhes {
+    width: 50%;
+    padding-left: 50px;
+  }
+  
+  #contato .detalhes span {
+    font-size: 14px;
+    font-weight: 400;
+    color: #545454;
+  }
+  
+  #contato .detalhes h2 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+    padding: 5px 0;
+  }
+  
+  #contato .detalhes h3 {
+    font-size: 20px;
+    line-height: 35px;
+    padding: 5px 0;
+    color: #c800c8;
+  }
+  
+  #contato .detalhes .contato-info {
+    margin-top: 20px;
+  }
+  
+  #contato .detalhes ul {
+    padding: 0;
+  }
+  
+  #contato .detalhes li {
+    list-style: none;
+    display: flex;
+    padding: 10px;
+  }
+  
+  #contato .detalhes li i {
+    font-size: 14px;
+    padding-right: 22px;
+    padding-top: 5px;
+    font-weight: 700;
+  }
+  
+  #contato .detalhes li p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  #contato .map {
+    width: 50%;
+    height: 400px;
+    margin: 30px 0 0 250px;
+  }
+  
